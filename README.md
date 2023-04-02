@@ -1,2 +1,0 @@
-# bhavya
-web development project
